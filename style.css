@@ -24,7 +24,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-weight: bold;
+    font-weight: 700;
 
     gap: 50px;
 }
@@ -99,7 +99,7 @@ font-family: 'Libre Franklin', sans-serif;
 .texts h1{
     color: black;
     font-size: 40px;
-    font-weight: bolder;
+  font-weight: 700;
     padding-top: 16px;
 }
 .texts{
